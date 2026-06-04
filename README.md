@@ -111,3 +111,4 @@ I am particularly interested in how AI, automation, and operational intelligence
 
 - LinkedIn: https://linkedin.com/in/freyes
 - GitHub: https://github.com/fredsocial
+- ![Profile Views](https://komarev.com/ghpvc/?username=fredsocial)
