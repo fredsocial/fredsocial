@@ -83,8 +83,8 @@ Exploring how analytics, automation, workflow orchestration, and AI can improve 
 
 ## Featured Projects
 
-### AI-Powered Job Search Agent
-Automation platform leveraging AI-assisted development workflows to streamline job discovery, resume customization, and application tracking.
+### AI-Powered Workflow Automation Platform
+Automation platform leveraging AI-assisted development, workflow orchestration, and data integration to streamline information discovery, reporting, and decision support processes.
 
 ### MCP Integrations
 Experiments and implementations using Model Context Protocol (MCP) to connect operational data sources with AI-assisted workflows.
