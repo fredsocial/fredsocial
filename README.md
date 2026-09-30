@@ -17,7 +17,7 @@ I lead global technology operations and enterprise applications, with experience
 
 ### AI and MCP projects
 
-- [**JobsAI MCP**](https://github.com/fredsocial/job-search-agent) — PostgreSQL-backed job-search intelligence with résumé-grounded matching, RAG, Qdrant retrieval, ATS-safe tailoring, networking workflows, and opportunity tracking.
+- **JobsAI MCP** *(private project)* — PostgreSQL-backed job-search intelligence with résumé-grounded matching, RAG, Qdrant retrieval, ATS-safe tailoring, networking workflows, and opportunity tracking.
 - [**Homebridge MCP**](https://github.com/fredsocial/homebridge-mcp) — Connects IoT and home-automation devices with ChatGPT and Claude, including device-state queries, camera workflows, authenticated access, allowlisted controls, and read-back validation.
 
 ### Focus areas
